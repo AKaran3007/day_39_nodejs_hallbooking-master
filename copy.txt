@@ -1,0 +1,7 @@
+{
+        "customer_name": "name xxx",
+        "date": "25/08/2022",
+        "start_time": "12:00pm",
+        "end_time": "8:00pm",
+        "roomId": "55"
+    }
